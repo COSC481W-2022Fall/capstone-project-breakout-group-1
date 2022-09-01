@@ -16,6 +16,8 @@ Sam Keim - Team Deputy
 Tyler Lopez - Team Member
 	
 Brandon Jones - Team Member
+
+This is my last semester here at EMU, and I'll be graduating with a Bachelor's in Computer Science. Outside of classes and programming, I enjoy biking, skiiing, working out, and playing video games.
 	
 Joseph Paredes Gleespen - Team Member
 
