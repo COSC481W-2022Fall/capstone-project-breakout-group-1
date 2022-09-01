@@ -9,12 +9,16 @@ With the chaos of the world today it is easy to loose track of yourself and your
 ## Team Member Bios:
 
 Michaela Gerweck - Team Lead
+
 In my last semester here at EMU, majoring in Computer Science with a double minor in Communcations and Public & Nonprofit Administration. I enjoying playing TTRPGs, hanging out with my dog and boyfriend, and traveling with friends. 
 
 Sam Keim - Team Deputy
 
 Tyler Lopez - Team Member
-	
+
+This is my last year at EMU, my first semester on-campus; I hate coming to campus. I've had an Android internship at Strava, which is a fitness app, that I no-lifed and received a return offer to, so my early-career will be entirely Android focused.
+I like climbing at Planet Rock and have climbed outdoors on some big trips a couple of times.
+ 	
 Brandon Jones - Team Member
 
 This is my last semester here at EMU, and I'll be graduating with a Bachelor's in Computer Science. Outside of classes and programming, I enjoy biking, skiiing, working out, and playing video games.
