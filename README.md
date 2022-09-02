@@ -25,6 +25,8 @@ This is my last semester here at EMU, and I'll be graduating with a Bachelor's i
 	
 Joseph Paredes Gleespen - Team Member
 
+This is my final year at Easter, and driving to school is slowly killing me. I'm primarily interested in Android Development but currently am at an internship in Ann Arbor that focuses on the .NET software development, which I am also really enjoying. 
+
 Jeremy Genovese - Team Member
 
 In the Spring of 2023, I'll be graduating with my Bachelor's in Applied Computer Science. Before coming to EMU I was in the Navy for 6 years and then worked at a nuclear power plant for 8 years. When I'm not working on school, I enjoy hiking with my partner and 2 dogs, and working with ceramics. After college I hope to get a job as a backend developer.
