@@ -28,6 +28,18 @@ Joseph Paredes Gleespen - Team Member
 Jeremy Genovese - Team Member
 
 
+## Team Specific Instructions to Contribute
+1. To start work, create a `New Issue`.
+![image](https://user-images.githubusercontent.com/77797048/188033692-7db0ee0c-b5af-4c8d-815c-aeef7bbe7649.png)
+2. Prefix the commit with `[Category]`. Provide reasonable detail for the issue. If you are interested in working on it, assign yourself to it. Consider adding a label, like `web` or `android`. Take note of the issue number, which here is `#6`.
+![image](https://user-images.githubusercontent.com/77797048/188033790-4925fb58-8d27-4936-b1aa-f167b44eed94.png)
+3. Create a branch based on main, preferably in the format of `lastname/category/short-description`
+4. Do your work on this branch. Before opening a pull request, squash all commits into a single commit for ease-of-review.
+5. Make a pull-request onto main. In your PR description, end it with `Closes #6`, replaced by your issue number from step 2. Select your reviewers.
+6. When at least one person approves your PR, you may merge by clicking the dropdown and selecting `Rebase and Merge`. Not selecting rebase will result in a messier commit history.
+
+![image](https://user-images.githubusercontent.com/77797048/188034019-935073bd-6862-4bf7-a2df-a89a46515468.png)
+
 ## Commit Message Guideline:
 Commits should be structured as shown below:
 
