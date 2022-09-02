@@ -21,7 +21,7 @@ I like climbing at Planet Rock and have climbed outdoors on some big trips a cou
  	
 Brandon Jones - Team Member
 
-This is my last semester here at EMU, and I'll be graduating with a Bachelor's in Computer Science. Outside of classes and programming, I enjoy biking, skiiing, working out, and playing video games.
+This is my last semester here at EMU, and I'll be graduating with a Bachelor's in Computer Science. Outside of classes and programming, I enjoy biking, skiing, working out, and playing video games.
 	
 Joseph Paredes Gleespen - Team Member
 
