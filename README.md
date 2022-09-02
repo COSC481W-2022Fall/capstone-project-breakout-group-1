@@ -27,6 +27,7 @@ Joseph Paredes Gleespen - Team Member
 
 Jeremy Genovese - Team Member
 
+In the Spring of 2023, I'll be graduating with my Bachelor's in Applied Computer Science. Before coming to EMU I was in the Navy for 6 years and then worked at a nuclear power plant for 8 years. When I'm not working on school, I enjoy hiking with my partner and 2 dogs, and working with ceramics. After college I hope to get a job as a backend developer.
 
 ## Commit Message Guideline:
 Commits should be structured as shown below:
