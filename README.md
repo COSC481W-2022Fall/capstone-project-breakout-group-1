@@ -1,4 +1,3 @@
-
 # Pending Name
 
 ## Project Description:
@@ -8,28 +7,30 @@ With the chaos of the world today it is easy to loose track of yourself and your
 
 ## Team Member Bios:
 
-Michaela Gerweck - Team Lead
+**Michaela Gerweck** - *Team Lead*
+>In my last semester here at EMU, majoring in Computer Science with a double minor in Communcations and Public & Nonprofit Administration. I enjoying playing TTRPGs, hanging out with my dog and boyfriend, and traveling with friends. 
 
-In my last semester here at EMU, majoring in Computer Science with a double minor in Communcations and Public & Nonprofit Administration. I enjoying playing TTRPGs, hanging out with my dog and boyfriend, and traveling with friends. 
+**Jeremy Genovese** - *Team Deputy*
 
-Sam Keim - Team Deputy
+>In the Spring of 2023, I'll be graduating with my Bachelor's in Applied Computer Science. Before coming to EMU I was in the Navy for 6 years and then worked at a nuclear power plant for 8 years. When I'm not working on school, I enjoy hiking with my partner and 2 dogs, and working with ceramics. After college I hope to get a job as a backend developer.
 
-Tyler Lopez - Team Member
+**Tyler Lopez** - *Team Member*
 
-This is my last year at EMU, my first semester on-campus; I hate coming to campus. I've had an Android internship at Strava, which is a fitness app, that I no-lifed and received a return offer to, so my early-career will be entirely Android focused.
-I like climbing at Planet Rock and have climbed outdoors on some big trips a couple of times.
- 	
-Brandon Jones - Team Member
+>This is my last year at EMU, my first semester on-campus; I hate coming to campus. I've had an Android internship at Strava, which is a fitness app, that I no-lifed and received a return offer to, so my early-career will be entirely Android focused.
+>I like climbing at Planet Rock and have climbed outdoors on some big trips a couple of times.
 
-This is my last semester here at EMU, and I'll be graduating with a Bachelor's in Computer Science. Outside of classes and programming, I enjoy biking, skiing, working out, and playing video games.
+**Brandon Jones** - *Team Member*
+
+>This is my last semester here at EMU, and I'll be graduating with a Bachelor's in Computer Science. Outside of classes and programming, I enjoy biking, skiing, working out, and playing video games.
 	
-Joseph Paredes Gleespen - Team Member
+**Joseph Paredes Gleespen** - *Team Member*
 
-This is my final year at Easter, and driving to school is slowly killing me. I'm primarily interested in Android Development but currently am at an internship in Ann Arbor that focuses on the .NET software development, which I am also really enjoying. 
+>This is my final year at Eastern, and driving to school is slowly killing me. I'm primarily interested in Android Development but currently am at an internship in Ann Arbor that focuses on the .NET software development, which I am also really enjoying. 
 
-Jeremy Genovese - Team Member
+**Sam Keim** - *Team Deputy*
 
-In the Spring of 2023, I'll be graduating with my Bachelor's in Applied Computer Science. Before coming to EMU I was in the Navy for 6 years and then worked at a nuclear power plant for 8 years. When I'm not working on school, I enjoy hiking with my partner and 2 dogs, and working with ceramics. After college I hope to get a job as a backend developer.
+>I will be graduating this semester (December 2022) with a Bachelor's of Applied Computer Science. Currently I am aiming for a job working in backend and software development. When I am not programming, I enjoy long nature walks, solving Rubiks Cubes (1 min 20 sec!), and cross stitching.
+
 
 ## Team Specific Instructions to Contribute
 1. To start work, create a `New Issue`.
