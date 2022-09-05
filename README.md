@@ -27,7 +27,7 @@ With the chaos of the world today it is easy to loose track of yourself and your
 
 >This is my final year at Eastern, and driving to school is slowly killing me. I'm primarily interested in Android Development but currently am at an internship in Ann Arbor that focuses on the .NET software development, which I am also really enjoying. 
 
-**Sam Keim** - *Team Deputy*
+**Sam Keim** - *Team Member*
 
 >I will be graduating this semester (December 2022) with a Bachelor's of Applied Computer Science. Currently I am aiming for a job working in backend and software development. When I am not programming, I enjoy long nature walks, solving Rubiks Cubes (1 min 20 sec!), and cross stitching.
 
