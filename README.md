@@ -3,6 +3,10 @@
 ## Project Description:
 With the chaos of the world today it is easy to loose track of yourself and your daily tasks. Dodo will help you keep track of your to do list, fitness, and whatever else you need to check off. You can watch your creature grow up and learn and gain a personality while you create more focus in your life. 
 
+##Web and Android Githubs:
+web: https://github.com/COSC-481W-Dodo
+android: https://github.com/COSC-481W-Dodo/dodo-android
+
 ## Meeting Time: Tuesdays 7pm
 
 ## Team Member Bios:
