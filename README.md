@@ -7,6 +7,7 @@ Flash card study tool for college students with a high focus on topic organizati
 ## Web and Android Githubs:
 
 [**Web Application**](https://github.com/COSC-481W-Dodo)
+
 [**Android Application**](https://github.com/COSC-481W-Dodo/dodo-android)
 
 ## Meeting Time: Tuesdays 7pm
